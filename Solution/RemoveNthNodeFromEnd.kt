@@ -1,12 +1,3 @@
-fun main(args : Array<String>) {
-  val head = ListNode(1)
-  head.next = ListNode(2)
-  head.next!!.next = ListNode(3)
-  head.next!!.next!!.next = ListNode(4)
-  head.next!!.next!!.next!!.next = ListNode(5)
-  val d = RemoveNthNodeFromEnd().removeNthFromEnd(head, 2)
-}
-
 class ListNode(var `val`: Int = 0) {
   var next: ListNode? = null
 }
