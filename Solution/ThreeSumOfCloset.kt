@@ -1,6 +1,3 @@
-
-import java.util.Arrays
-
 class ThreeSumOfCloset {
   fun threeSumClosest(nums: IntArray, target: Int): Int {
 
