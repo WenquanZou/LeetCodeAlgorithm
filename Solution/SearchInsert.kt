@@ -13,4 +13,5 @@ class SearchInsert {
         return mid
     }
     return lo
-  }}
+  }
+}
