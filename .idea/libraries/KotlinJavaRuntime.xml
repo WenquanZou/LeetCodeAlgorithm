@@ -7,7 +7,6 @@
       <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre7.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre8.jar!/" />
     </CLASSES>
-    <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre7-sources.jar!/" />
